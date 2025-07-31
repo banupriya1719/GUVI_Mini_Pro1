@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:8080/api/employees';
+const apiUrl = 'https://guviminiproject1api.onrender.com/api/employees';
 
 let editingId = null;
 
